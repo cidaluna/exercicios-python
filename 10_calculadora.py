@@ -1,0 +1,13 @@
+escolha = int(input('Você deseja ver a tabuada de qual número? '))
+
+print('{} x {:2} = {}'.format(escolha, 0,  escolha*0))
+print('{} x {:2} = {}'.format(escolha, 1,  escolha*1))
+print('{} x {:2} = {}'.format(escolha, 2,  escolha*2))
+print('{} x {:2} = {}'.format(escolha, 3,  escolha*3))
+print('{} x {:2} = {}'.format(escolha, 4,  escolha*4))
+print('{} x {:2} = {}'.format(escolha, 5,  escolha*5))
+print('{} x {:2} = {}'.format(escolha, 6,  escolha*6))
+print('{} x {:2} = {}'.format(escolha, 7,  escolha*7))
+print('{} x {:2} = {}'.format(escolha, 8,  escolha*8))
+print('{} x {:2} = {}'.format(escolha, 9,  escolha*9))
+print('{} x {:2} = {}'.format(escolha, 10,  escolha*10))
